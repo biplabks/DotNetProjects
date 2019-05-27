@@ -1,0 +1,14 @@
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\bin\Debug\WPFDemo.exe.config
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\bin\Debug\WPFDemo.exe
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\bin\Debug\WPFDemo.pdb
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\obj\Debug\WPFDemo.csprojResolveAssemblyReference.cache
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\obj\Debug\MainWindow.g.cs
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\obj\Debug\App.g.cs
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\obj\Debug\MainWindow.baml
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\obj\Debug\WPFDemo.g.resources
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.Cache
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\obj\Debug\WPFDemo.exe
+c:\users\biplabks\documents\visual studio 2015\Projects\NETProjects\WPFDemo\obj\Debug\WPFDemo.pdb
